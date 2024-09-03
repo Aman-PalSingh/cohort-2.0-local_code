@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+}
+body {
+    font-weight: 320;
+  }
+  h1 {
+    font-weight: 500;
+  }
+  h3{
+    font-weight: 400;
+  }
+  a {
+    text-decoration: none;
+  }
+  button {
+    background-color: #387ed1;
+    margin-top: 10px;
+    border: none;
+    border-radius: 3px;
+    width: 200px;
+    text-align: center;
+    font-size: 1.2em;
+    padding: 10px;
+    background-color: ;
+    color: #fff !important;
+  }
+ 
